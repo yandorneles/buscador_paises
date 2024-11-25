@@ -1,0 +1,42 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: rebeccapurple;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+header h1{
+    color: white;
+    margin: 0;
+}
+
+form{
+    border: 1px solid #333;
+    border-radius: 15px;
+    margin: 25px;
+    padding: 25px;
+}
+
+input, button{
+    border: 1px solid #333;
+    border-radius: 0;
+    padding: 10px;
+    margin: 0;
+}
+
+button{
+    cursor: pointer;
+}
+
+#app h1{
+    color: rebeccapurple;
+    font-size: medium;
+    margin: 25px;
+}
